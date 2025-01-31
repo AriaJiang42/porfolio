@@ -1,0 +1,18 @@
+@charset "utf-8";
+.row .col-lg-6 h1 {
+    margin-left: 10px;
+}
+.row .col-lg-6 p {
+    margin-left: 10px;
+}
+.container-títuloapart h1 {
+    margin-left: 10px;
+}
+.container-títuloapart2 h1 {
+    margin-left: 10px;
+}
+.centrar_img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
